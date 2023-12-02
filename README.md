@@ -16,3 +16,13 @@ git init
 touch -gitignore
 
 ```
+```
+dvc repro
+
+```
+```
+dvc dags
+```
+```
+dvg dag
+```
